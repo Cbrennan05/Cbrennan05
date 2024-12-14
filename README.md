@@ -3,11 +3,11 @@
 <h2>👨‍💻 My Current Projects:</h2>
 
 - <b>Basic Football Team Website</b>
-  - [Made using HTML and CSS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Made using HTML and CSS]()
 - <b>Mobile Application Prototype(HTML,CSS,JavaScript)</b>
-  - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>()</b></i>
+  - []() <b><i>()</b></i>
 - <b>Simple Algorithm</b>
-   [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+   []()
 
 
 
