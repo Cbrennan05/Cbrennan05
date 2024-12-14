@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caoimhín! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/joshmadakor/">
+<h1>Hi, I'm Caoimhín! <br/><a href=></a> <a href="">
 
 <h2>👨‍💻 My Current Projects:</h2>
 
@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
